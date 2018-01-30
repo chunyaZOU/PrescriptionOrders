@@ -13,3 +13,7 @@
 .idea/runConfigurations.xml
 gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/dictionaries/ygs.xml
+.idea/vcs.xml
