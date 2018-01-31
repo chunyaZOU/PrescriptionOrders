@@ -1,1 +1,3 @@
-include ':app'
+include ':app' ,':lib',':okhttp',':imgpicker'
+project(':okhttp').projectDir = new File('lib/okhttp')
+project(':imgpicker').projectDir = new File('lib/imgpicker')
